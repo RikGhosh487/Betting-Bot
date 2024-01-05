@@ -1,0 +1,5 @@
+settings.json
+package-lock.json
+pytest_cache
+vscode
+node_modules
